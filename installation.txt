@@ -1,0 +1,3 @@
+connect to Microsoft SQL Server
+first run 01.Create_database_sales
+then 02.Sales_database_odjects.sql
